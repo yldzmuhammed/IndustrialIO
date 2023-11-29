@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:11:31 On 16.04.2020
+
+Output: RS485GPIO BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [RS485_GPIO.PrjPcb]
+   Generated File[RS485GPIO BOM-RS485_GPIO.xls]
+   Generated File[RS485GPIO BOM-RS485_GPIO.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 15:11:43 On 16.04.2020
